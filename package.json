@@ -1,0 +1,21 @@
+{
+  "name": "com.outreal.triggerevent",
+  "version": "1.2.3",
+  "displayName": "Trigger Event",
+  "description": "This is an example package",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Arup K. Sen",
+    "email": "senarup7@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
